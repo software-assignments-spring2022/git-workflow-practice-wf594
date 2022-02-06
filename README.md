@@ -1,3 +1,3 @@
-#Article link
+# Article link
 [Visual Studio Code for Web gets verified GitHub commits](https://www.infoworld.com/article/3648993/visual-studio-code-for-web-gets-verified-github-commits.html)
-##With the update, commits created in the online editor now are signed and marked as Verified in the GitHub UI. Maintainers can commit to pull requests submitted from forks when using the web-based version of VS Code. This is due to the new GitHub GraphQL createCommitOnBranch API. Also, the Source Control view now supports multiple selection. VS Code for the Web also bundles pre-release versions of both the GitHub Pull Rquest and Issues and GitHub Repositories extensions.
+## With the update, commits created in the online editor now are signed and marked as Verified in the GitHub UI. Maintainers can commit to pull requests submitted from forks when using the web-based version of VS Code. This is due to the new GitHub GraphQL createCommitOnBranch API. Also, the Source Control view now supports multiple selection. VS Code for the Web also bundles pre-release versions of both the GitHub Pull Rquest and Issues and GitHub Repositories extensions.
